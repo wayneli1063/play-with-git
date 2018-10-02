@@ -7,3 +7,7 @@ Thanks, I will.
 ![](bengal_tiger.jpg)
 
 **EZ programming**
+
+### UW fun fact
+- UW is located in Seattle
+- Last year it admitted more than 7000 freshmen.
